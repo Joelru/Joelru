@@ -13,7 +13,7 @@
   <ul>
     <li>👨‍💻 I'm a <b>Software Developer</b> specialized in <b>Java</b> and <b>Android Studio</b></li>
     <li>📍 Based in <b>Colombia</b></li>
-    <li>🏢 I'm currently working as a <b>Java Developer</b> with 2 years of experience</li>
+    <li>🏢 I'm currently working as a <b>Java Developer</b> with 3.5 years of experience</li>
     <li>🌱 I'm currently studying <b>Web Development</b> and improving my skills in <b>JavaScript</b> and <b>React</b></li>
     <li>💬 You can ask me about <b>Android apps, Java development, UI with XML, and app deployment</b></li>
     <li>📮 You can contact me directly here: <b>thejoelru@gmail.com</b></li>
